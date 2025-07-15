@@ -1,4 +1,4 @@
-# ✈️ Sistema de Gestión de Reservas de Vuelos - Final Prog2 2024
+# ✈️ Sistema de Gestión de Reservas de Vuelos - Final Progamaciónm II
 
 Este proyecto consiste en el desarrollo de una aplicación Java para gestionar reservas de vuelos. El sistema debe aplicar principios de **Programación Orientada a Objetos (POO)**, utilizar **colecciones para almacenamiento de datos** y generar archivos **CSV** con información del sistema.
 
